@@ -1,0 +1,16 @@
+
+
+Background:
+  What are quantum computers?
+  How are they different from current digital computers?
+
+Current State:
+  Security is offered by:
+    integer factorization problem (RSA)
+    discret logarithm problem (El Gamal)
+    elliptic-curve discrete logarithm problem (?)
+  Issues:
+    Simple algorithm to solve these problems
+    Computationally difficult to solve these problems
+
+Post-Quantum Computer Solutions:
