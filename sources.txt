@@ -56,4 +56,11 @@ Abstract: Quantum cryptography generates unbreakable cryptographic codes by enco
  Author. Book-Title. Publisher. Year. 
  Author/Organization. Title. Website. Date checked. 
 
+Used ACM
+Ray A Perlner. Quantum Resistant Public Key Cryptology: A Survey. National Institute of Standards and Technology. 2009, pgs 85-93. 
 
+Priya Riana. A Study on Qunatum Cryptology Based Security Management in Cloud. Departmend of Computer Science and Engineering UIET, Panjab University, Chandigarh, India. 2015.
+
+IEEE
+
+Alberto Porzio. Quanbum Cryptography: Approaching Communication Security from a Quantum Perspective. Fotonica AEIT Italian Conference on Photonics Technologies. 2014. 
